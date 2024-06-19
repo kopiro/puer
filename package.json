@@ -22,7 +22,7 @@
     "coffee-script": "1.4.x",
     "express": "3.0.x",
     "chokidar": "0.8.1",
-    "socket.io": "0.9.16",
+    "socket.io": "2.5.0",
     "weinre": "*",
     "qrcode-npm": "0.0.3",
     "http-proxy": "~1.5.3"
